@@ -1,2 +1,2 @@
 # Attempt1
-first rep
+An attempt to understand Github
